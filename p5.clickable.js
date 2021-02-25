@@ -7,6 +7,7 @@ var cl_lastClicked = null;
 //All created buttons
 var cl_clickables = [];
 
+//delete me
 //This function is what makes the magic happen and should be ran after
 //each draw cycle.
 p5.prototype.runGUI = function () {

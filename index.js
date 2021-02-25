@@ -107,3 +107,5 @@ console.log(goat);
 
 const theGang = ['Shaggy', 'Scooby', 'Velma', 'Fred', 'Daphne'];
 theGang.map(letters => console.log(letters.length));
+
+//delete me
